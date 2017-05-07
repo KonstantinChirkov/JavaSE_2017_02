@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/synchro-example/synchro-example.iml" filepath="$PROJECT_DIR$/synchro-example/synchro-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-exception/thread-exception.iml" filepath="$PROJECT_DIR$/thread-exception/thread-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-local/thread-local.iml" filepath="$PROJECT_DIR$/thread-local/thread-local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads-lesson13.iml" filepath="$PROJECT_DIR$/threads-lesson13.iml" />
+    </modules>
+  </component>
+</project>
